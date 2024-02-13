@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nooshin52
 - 👀 I’m interested in AI , Data minding , ITS, Smart city , IOT, Traffic managements , public transportation, Art , music, painting , sculpture 
-- 🌱 I’m currently student of master AI
+- 🌱 I am currently a master's student in artificial intelligence at Istinye university
 - 💞️ I’m looking to collaborate on the field of artificial intelligence and data analysis
 - 📫 Email: nooshin.soroor20@gmail
 - 😄 Pronouns: nooshin
